@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv
+build/
+dist/
+runs/
+*.whl
+.idea/
+
+# Local AIDI job files
+/aidi/
+/aidi_job_submit.json
+/scripts/ppo_embodied_gen.sh

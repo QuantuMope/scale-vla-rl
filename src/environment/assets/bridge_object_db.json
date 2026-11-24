@@ -1,0 +1,86 @@
+{
+  "baked_green_cube_3cm": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "baked_yellow_cube_3cm": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "baked_red_cube_3cm": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "bridge_carrot_generated": {
+    "scale": 1.0,
+    "density": 700
+  },
+  "bridge_carrot_generated_modified": {
+    "scale": 1.0,
+    "density": 700
+  },
+  "bridge_plate_objaverse": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "bridge_plate_objaverse_larger": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "bridge_spoon_generated_modified": {
+    "scale": 1.0,
+    "density": 1200
+  },
+  "table_cloth_generated": {
+    "scale": 1.0,
+    "density": 330
+  },
+  "table_cloth_generated_shorter": {
+    "scale": 1.0,
+    "density": 330
+  },
+  "green_cube_3cm": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "yellow_cube_3cm": {
+    "scale": 1.0,
+    "density": 1000
+  },
+  "eggplant": {
+    "scale": 1.0,
+    "density": 400
+  },
+  "sink": {
+    "scale": 1.0,
+    "density": 100000
+  },
+  "dummy_sink_target_plane": {
+    "scale": 1.0,
+    "density": 100000
+  },
+  "green_plate": {
+    "scale": 0.6,
+    "density": 1000.0
+  },
+  "red_bowl": {
+    "scale": 0.4,
+    "density": 1000.0
+  },
+  "blue_plate": {
+    "scale": 1.0,
+    "density": 1000.0
+  },
+  "strawberry": {
+    "scale": 0.8,
+    "density": 500.0
+  },
+  "orange": {
+    "scale": 0.6,
+    "density": 1000.0
+  },
+  "lemon": {
+    "scale": 0.7,
+    "density": 1000.0
+  }
+}

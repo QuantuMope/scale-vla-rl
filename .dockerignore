@@ -1,0 +1,6 @@
+**
+!docker/
+docker/*
+!docker/Dockerfile
+!docker/10_nvidia.json
+!docker/nvidia_icd.json

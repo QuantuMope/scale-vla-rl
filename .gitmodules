@@ -1,0 +1,17 @@
+[submodule "submodules/alf"]
+	path = submodules/alf
+	url = https://github.com/HorizonRobotics/alf.git
+[submodule "submodules/kincpp"]
+	path = submodules/kincpp
+	url = https://github.com/HorizonRobotics/kincpp.git
+[submodule "submodules/ManiSkill"]
+	path = submodules/ManiSkill
+	url = https://github.com/HorizonRoboticsInternal/ManiSkill.git
+	branch = scale-vla-rl-integration
+[submodule "submodules/EmbodiedGen"]
+	path = submodules/EmbodiedGen
+	url = https://github.com/HorizonRobotics/EmbodiedGen.git
+[submodule "submodules/ren_open_pi_zero"]
+	path = submodules/ren_open_pi_zero
+	url = https://github.com/HorizonRoboticsInternal/open-pi-zero.git
+	branch = scale-vla-rl-integration
